@@ -1,0 +1,23 @@
+# Игнорирование виртуального окружения
+venv/
+.env/
+new_venv/
+.venv/
+new_env/
+/synthetic_media/practice_2/media/
+/synthetic_media/practice_3/tortoise-tts/
+Synenv/
+# Игнорирование временных файлов и директорий
+__pycache__/
+*.pyc
+*.pyo
+.mypy_cache/
+.pytest_cache/
+.vscode/
+synthetic_media/practice_4
+synthetic_media/practice_5
+synthetic_media/practice_3
+synthetic_media/practice_2
+synthetic_media/practice_1
+synthetic_media/practice_6/myenv
+synthetic_media/practice_6/SlowFast
