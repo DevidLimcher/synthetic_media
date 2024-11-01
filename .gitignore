@@ -94,7 +94,6 @@ Desktop.ini
 
 # Anaconda
 *.conda
-*.ipynb
 *.ipynb_checkpoints/
 
 # Local settings and sensitive information
